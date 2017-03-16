@@ -28,6 +28,7 @@
                             align-items: center;
                             position: relative;
                             z-index: 5;
+                            padding-bottom: 2%;
                         }
                         .box {
                             text-align: center;
@@ -520,7 +521,12 @@
                             background-color: #e61471;
                         }
                         .bouton-choix {
-                           /* display: block;*/
+                            /* display: block;*/
                             width: 100%;
                             height: auto;
+                        }
+                        /****************************article seul***********************/
+                        
+                        .date {
+                            text-align: center;
                         }

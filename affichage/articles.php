@@ -31,6 +31,11 @@ include("menu.php");
                                 <p>lire la suite</p>
                             </div>
                         </div>';
+        
+         if($line == true){
+     
+        die(1);
+    }
     }
         ?>
 
